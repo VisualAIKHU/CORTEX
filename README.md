@@ -94,9 +94,6 @@ To train, test, and evaluate the CORTEX model:
 bash run.sh
 ```
 
-## Model Checkpoint
-We provide the model checkpoints for CORTEX (DIRL). [checkpoint]()
-
 
 ## Acknowledgements
 
