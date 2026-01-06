@@ -48,7 +48,9 @@ python scripts/preprocess_captions_transformer.py --input_captions_json ./data/c
 ### 2. RTE Datasets
 We propose an RTE module that leverages a VLM to extract structured textual cues that encode explicit compositional reasoning elements from images.
 
-The raw RTE files are located in `data/RTE_datasets`, and the embedded RTE features are generated using `scripts/RTEtoh5.py` (already provided as `data/BefCap_chg.h5` and `data/AftCap_chg.h5`).
+The raw RTE files are located in `data/RTE_datasets`.
+
+The embedded [RTE features](https://drive.google.com/drive/folders/1Lj1VZT87p1Vw-Fz8BgZdd-LtEWD81wce?usp=drive_link) are generated using `scripts/RTEtoh5.py`.
 
 
 ### 3. Directory Structure:
