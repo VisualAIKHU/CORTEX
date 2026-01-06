@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Checkpoints / weights
+*.pt
+*.pth
+checkpoint/
+
+# Large datasets
+data/
+*.h5
+
+# OS / editor
+.DS_Store
+.vscode/
