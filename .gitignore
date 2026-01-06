@@ -3,9 +3,9 @@ __pycache__/
 *.pyc
 
 # Checkpoints / weights
-*.pt
-*.pth
-checkpoint/
+# *.pt
+# *.pth
+# checkpoint/
 
 # Large datasets
 data/
