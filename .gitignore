@@ -7,9 +7,11 @@ __pycache__/
 # *.pth
 # checkpoint/
 
-# Large datasets
-data/
+# Ignore only large h5 files
 *.h5
+
+# BUT allow this specific h5 (97MB)
+!data/transformer_labels.h5
 
 # OS / editor
 .DS_Store
